@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MLKitAppDemo</string>
+
+    <string name="textShouldGrant">應該授予訪問外部存儲的權限</string>
+    <string name="textNoImagePickerAppFound">找不到圖像選擇器應用程序</string>
+    <string name="textNoCameraAppFound">找不到相機App</string>
+    <string name="textDirNotCreated">無法創建DIRECTORY_PICTURES</string>
+    <string name="textNoImageCropAppFound">找不到圖片裁剪應用</string>
+
+    <string name="tfe_dc_prediction_text_placeholder" translatable="false">Please draw a digit</string>
+    <string name="tfe_dc_classification_error_message" translatable="false">Error classifying drawing: %s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
